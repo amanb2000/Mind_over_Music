@@ -2,11 +2,13 @@
 
 *Authors: Aman Bhargava, Kyle O'Shaughnessy, Steve Mann*
 
+[Click Here for IEEE Sensors 2020 Video Presentation](https://www.youtube.com/watch?v=PuzvJ03wy3A&feature=youtu.be&ab_channel=Aman%27sProjects)
+
 Since the advent of EEG brain scanning technology, cognitive response modeling and brain state optimization has been a topic of great interest. 
 
 Here, we propose a novel Humanistically Intelligent (HI) system where brain waves are interpreted by a real-time deep reinforcement learning agent that controls an audio modulation system in order for the user to achieve an arbitrary target brain state. 
 
-In our tests comparing the proposed system to a conventional neurofeedback system, we found that the proposed system consistently led to a more meditative brain state with $p = 0.06$.
+In our tests comparing the proposed system to a conventional neurofeedback system, we found that the proposed system consistently led to a more meditative brain state with p = 0.06.
 
 This work was presented at IEEE Sensors 2020 ([link](https://archive.org/details/pid-6601141)):
 
