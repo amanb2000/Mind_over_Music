@@ -18,6 +18,7 @@ A. Bhargava, K. O'Shaughnessy, and S. Mann,
 *Proc. IEEE Sensors, 2020*.
 
 
+**Note that certain key pieces of proprietary InteraXon code that enable one to directly connect to a Muse 2 headset via BLE have been removed due to non-disclosure agreement.*
 
 ## Requirements
 
