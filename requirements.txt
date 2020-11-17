@@ -1,0 +1,12 @@
+numpy
+pandas
+torch
+torchvision
+matplotlib
+pyserial
+pyyaml
+scikit-learn
+scipy
+typing_extensions
+bitstring
+bluepy
