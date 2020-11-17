@@ -2,6 +2,11 @@
 
 *Authors: Aman Bhargava, Kyle O'Shaughnessy, Steve Mann*
 
+<a id="1">[1]</a> 
+A. Bhargava, K. O'Shaughnessy, and S. Mann,  
+"A Novel Approach to EEG Neurofeedback via Reinforcement Learning", 
+*Proc. IEEE Sensors, 2020*.
+
 [Click Here for IEEE Sensors 2020 Video Presentation](https://www.youtube.com/watch?v=PuzvJ03wy3A&feature=youtu.be&ab_channel=Aman%27sProjects)
 
 Since the advent of EEG brain scanning technology, cognitive response modeling and brain state optimization has been a topic of great interest. 
@@ -12,10 +17,7 @@ In our tests comparing the proposed system to a conventional neurofeedback syste
 
 This work was presented at IEEE Sensors 2020 ([link](https://archive.org/details/pid-6601141)):
 
-<a id="1">[1]</a> 
-A. Bhargava, K. O'Shaughnessy, and S. Mann,  
-"A Novel Approach to EEG Neurofeedback via Reinforcement Learning", 
-*Proc. IEEE Sensors, 2020*.
+
 
 
 **Note that certain key pieces of proprietary InteraXon code that enable one to directly connect to a Muse 2 headset via BLE have been removed due to non-disclosure agreement.*
