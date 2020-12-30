@@ -9,6 +9,8 @@ A. Bhargava, K. O'Shaughnessy, and S. Mann,
 
 [Click Here for IEEE Sensors 2020 Video Presentation](https://www.youtube.com/watch?v=PuzvJ03wy3A&feature=youtu.be&ab_channel=Aman%27sProjects)
 
+[Click Here for Paper (IEEEXplore)](https://ieeexplore.ieee.org/abstract/document/9278871)
+
 Since the advent of EEG brain scanning technology, cognitive response modeling and brain state optimization has been a topic of great interest. 
 
 Here, we propose a novel Humanistically Intelligent (HI) system where brain waves are interpreted by a real-time deep reinforcement learning agent that controls an audio modulation system in order for the user to achieve an arbitrary target brain state. 
