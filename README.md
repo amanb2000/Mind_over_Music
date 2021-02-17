@@ -22,7 +22,11 @@ This work was presented at IEEE Sensors 2020 ([link](https://archive.org/details
 
 
 
-**Note that certain key pieces of proprietary InteraXon code that enable one to directly connect to a Muse 2 headset via BLE have been removed due to non-disclosure agreement.*
+**Note that certain key pieces of proprietary InteraXon code that enable one to directly connect to a Muse 2 headset via BLE have been removed due to non-disclosure agreement.**
+
+## Acknowledgements
+
+Thank you to Jeremy Stairs, Danson Evan Garcia, Jesse Hernandez, and Cayden Pierce for their work on the Muse headset BLE connectivity code.
 
 ## Requirements
 
